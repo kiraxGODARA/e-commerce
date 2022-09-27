@@ -4,5 +4,15 @@ An Interactive Web App designed to predict the stock trend in coming years of sp
 ● Tech Stack: Python3, Plotly, STREAMLIT
 
 Features:
-● Variable years of production
-● Slider to focus on particular day/week/month.
+
+● Variable years of prediction
+
+![](images/years.png)
+
+● RangeSlider to focus on particular day/week/month.
+
+![](images/range_slider.png)
+
+●Future Prediction
+
+![](images/forecast.png)
